@@ -1,0 +1,13 @@
+Row Labels,Count of order_id,Sum of revenue,AOV,,,,insights,,,,,,,
+1,723,63687471,88087.78838,?ã ít ??n còn ít ti?n,,,"Store c?n xem l?i c? v? trí, s?n ph?m và khuy?n m?i.",,,,,,,c?n chi?n l??c khác nhau cho t?ng ?i?m bán
+2,761,66701208,87649.41919,nhi?u ??n nh?ng ít ti?n,,,Store có traffic t?t nh?ng khách chi tiêu th?p ? có th? upsell/combo.,,,,,,,
+3,700,64578749,92255.35571,ít ??n nh?ng nhi?u ti?n,,,Store bán ??n giá cao nh?ng thi?u traffic ? c?n marketing.,,,,,,,
+4,744,67047289,90117.32392,,,,,,,,,,,
+5,734,64517115,87897.97684,,,,,,,,,,,
+(blank),,,#DIV/0!,,,,,,,,,,,
+Grand Total,3662,326531832,89167.62206,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+m?i ch có dd hành vi kh khác nhau,,,,,,,,,,,,,,
+"St2: t?p trung vào các chi?n l??c t?ng AOV nh? upsell, combo ho?c khuy?n m?i theo giá tr? ??n.",,,,,,,,,,,,,,
+St3: ?u tiên các ho?t ??ng thu hút khách hàng ?? t?ng s? l??ng ??n vì giá tr? ??n hi?n t?i ?ang ? m?c t?t.,,,,,,,,,,,,,,

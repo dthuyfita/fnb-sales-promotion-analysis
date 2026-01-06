@@ -1,0 +1,4 @@
+promotion_id,promotion_type,start_date,end_date
+0,No Promotion,,
+1,Discount 10%,2023-06-01,2023-06-30
+2,Buy 1 Get 1,2023-07-01,2023-07-31
